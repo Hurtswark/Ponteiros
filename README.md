@@ -1,1 +1,1 @@
-# Aloca-o-dinamica
+# Exercicios de ponteiro
